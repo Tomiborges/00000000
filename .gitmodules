@@ -1,0 +1,9 @@
+[submodule "dappsys"]
+	path = dappsys
+	url = https://github.com/dapphub/dappsys.git
+[submodule "openzeppelin-contracts"]
+	path = openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
+[submodule "truffle"]
+	path = truffle
+	url = https://github.com/trufflesuite/truffle.git
