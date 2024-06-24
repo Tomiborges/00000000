@@ -46,29 +46,32 @@ Use Truffle to compile the smart contracts:
 truffle compile
 ```
 
-## Deploying Contracts
+### Deploying Contracts
 
 You can deploy the contracts to a local development network:
-
+```sh
 truffle migrate
-
+```
 Or specify a network defined in truffle-config.js:
-
+```sh
 truffle migrate --network <network_name>
-
-## Running Tests
+```
+### Running Tests
 
 To run the tests for the smart contracts:
-
+```sh
 truffle test
+```
+### Deployment to GitHub Pages
 
-## Deployment to GitHub Pages
-
-This project uses GitHub Actions to deploy static content to GitHub Pages. The workflow file is located at .github/workflows/static.yml. The deployment is triggered on pushes to the main branch.
+This project uses GitHub Actions to deploy static content to GitHub Pages. The workflow file is located at .github/workflows/static.yml. 
+The deployment is triggered on pushes to the main branch.
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project’s coding standards and includes appropriate tests.
+Contributions are welcome! 
+Please fork the repository and create a pull request with your changes. 
+Ensure that your code adheres to the project’s coding standards and includes appropriate tests.
 
 ## License
 
