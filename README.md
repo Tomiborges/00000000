@@ -44,6 +44,7 @@
 Use Truffle to compile the smart contracts:
 ```sh
 truffle compile
+```
 
 ## Deploying Contracts
 
