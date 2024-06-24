@@ -78,14 +78,3 @@ Acknowledgements
 	•	Dappsys
 	•	OpenZeppelin
 	•	Truffle Suite
-
-### Explanation
-
-1. **Overview**: Provides a brief introduction to the project.
-2. **Structure**: Describes the submodules included in the repository.
-3. **Getting Started**: Lists the prerequisites and step-by-step instructions to set up the project.
-4. **Usage**: Details how to compile, deploy, and test the smart contracts.
-5. **Deployment to GitHub Pages**: Briefly explains the deployment process using GitHub Actions.
-6. **Contributing**: Invites contributions and explains how to contribute.
-7. **License**: States the licensing information.
-8. **Acknowledgements**: Credits the libraries and tools used in the project.
